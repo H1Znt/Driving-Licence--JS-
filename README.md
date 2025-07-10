@@ -29,9 +29,13 @@
 ### Where the elements are as follows
 
 > 0 = Forename
+
 > 1 = Middle Name (if any)
+
 > 2 = Surname
+
 > 3 = Date of Birth (In the format Day Month Year, this could include the full Month name or just shorthand ie September or Sep)
+
 > 4 = M-Male or F-Female
 
 # [Page](https://www.codewars.com/kata/586a1af1c66d18ad81000134/javascript)
